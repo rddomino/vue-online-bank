@@ -1,19 +1,14 @@
-# vue-practice-app
+# Интернет-банкинг
 
-## Project setup
+## Используемые технологии
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Vue 3 Composition API
+veeValidate, yup, jwt token
 ```
 
-### Compiles and minifies for production
+## Сткруктура проекта:
+### Страница Авторизации пользователя
 ```
-npm run build
+Авторизация пользователя через базу данных и jwt токен с валидацией через yup и veeValidate, блокировкой ввода данных после 3х отправок
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
