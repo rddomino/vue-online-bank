@@ -42,4 +42,5 @@ veeValidate, yup, jwt token, REST API, axios
 
 ### Данные для логина
 ```
-- d@mail.ru / 123456
+https://vue-online-bank-f7e26.web.app
+d@mail.ru / 123456
